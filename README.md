@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working at ECE NUS as a full-time TA ...
+🔭 I’m currently working at ECE NUS as a full-time TA ... \\
 🌱 at the same time, finishing up my final sem as a MsC student. 
 
 
