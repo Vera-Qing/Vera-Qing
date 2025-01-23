@@ -1,7 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working at ECE NUS as a full-time TA ... 
 
-- 🌱 at the same time, finishing up my final sem as a MsC student. 
+- 🔭 I’m currently working at ECE NUS as a full-time instructor, and ...
+
+- 🌱 at the same time, kicking start with my research as an MEng student.
+
+- 🤔 I’m currently working on MBRL for prescriptive analytics.
 
 
 <!--
