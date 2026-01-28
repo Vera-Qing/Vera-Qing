@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at ECE NUS as a full-time instructor, and ...
+- 🔭 I’m currently working at ECE NUS as a full-time instructor
+- 📖 Join me for EE2211, EE2027, CG/EE2028, EE3033, EE4802/IE4213, ....
 
-- 🌱 at the same time, kicking start with my research as an MEng student.
+- 🌱 At the same time, I am kicking off with my research as an MEng student
+- 🤔 I’m currently working on MBRL for prescriptive analytics
 
-- 🤔 I’m currently working on MBRL for prescriptive analytics.
 
 
 <!--
