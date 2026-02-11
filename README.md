@@ -4,7 +4,7 @@
 - 📖 Join me for EE2211, EE2027, CG/EE2028, EE3033, EE4802/IE4213, ....
 
 - 🌱 At the same time, I am kicking off with my research as an MEng student
-- 🤔 I’m currently working on MBRL for prescriptive analytics
+- 🤔 I’m currently working on MBRL/MBPO for prescriptive maintenance/analytics
 
 
 
